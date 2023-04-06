@@ -3,9 +3,9 @@
 Author : Bakti Parningotan Marbun (181111025)
 
 <h1>Cara Pakai</h1>
-<p>1. Clone repository ini<p>
-<p>2. Buka Command Prompt / Powershell (Windows) Terminal (Mac OS & Linux)
-<p>Kemudian copas kode ini</p>
+1. Clone repository ini
+2. Buka Command Prompt / Powershell (Windows) Terminal (Mac OS & Linux)
+Kemudian copas kode ini
 ```bash
    java aktivitas
 ```
